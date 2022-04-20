@@ -55,6 +55,7 @@ Functiile clasei: Telekom ii permit sa schimbe locatia (in cazul in care a fost 
 
 De asemenea orice variabila apare intr-o clasa poate fi returnata cu functia get_[nume-variabila]().
 ![image](https://user-images.githubusercontent.com/93475691/164320550-7567b312-a4f0-46f2-8423-1234e3816311.png)
+<br/>
 ![image](https://user-images.githubusercontent.com/93475691/164320593-5dff81bc-fe91-42b3-aaac-ad29a59f0f74.png)
 
 Functiile au operatori supraincarcati.
