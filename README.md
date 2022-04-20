@@ -61,6 +61,7 @@ De asemenea orice variabila apare intr-o clasa poate fi returnata cu functia get
 Functiile au operatori supraincarcati.
 De esxemplu ii poti mari salariul unui angajat in felul urmator:
 ![image](https://user-images.githubusercontent.com/93475691/164321523-030286a6-4335-4e7d-8318-3a184a8dc704.png)
+<br/>
 ![image](https://user-images.githubusercontent.com/93475691/164321580-c308dee5-1e42-4a10-b3ba-7c27b7d1bbdf.png)
 
 
